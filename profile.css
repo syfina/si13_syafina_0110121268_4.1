@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: times;
+}
+
+main {
+  width: 70%;
+  margin: auto;
+  padding: 25px; 
+}
+
+fieldset {
+  background: #cef5ee;
+}
+
+.profile {
+  width: 150px;
+  height: 200px;
+}
+
+.content {
+  text-align: right;
+}
+
+video {
+  controls: false;
+}
+
+.kucing {
+  width: 126px;
+  height: 126px;
+}
+
+ul {
+  list-style:none;
+}
